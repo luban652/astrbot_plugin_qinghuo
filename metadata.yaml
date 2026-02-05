@@ -1,0 +1,10 @@
+name: qinghuo
+author: sou桑
+version: 1.0.0
+description: AstrBot 清火体力提醒插件，支持满体自动@、每日挑战提醒、体力自定义管理
+repo_url: https://github.com/luban652/astrbot_plugin_qinghuo
+platforms:
+  - aiocqhttp
+  - telegram
+
+  - gewechat
